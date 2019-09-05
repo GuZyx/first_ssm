@@ -1,0 +1,12 @@
+com\zyx\ssm\service\impl\UserServiceImpl.class
+com\zyx\ssm\service\impl\PermissionServiceImpl.class
+com\zyx\ssm\service\IProductService.class
+com\zyx\ssm\service\IRoleService.class
+com\zyx\ssm\service\impl\OrdersServiceImpl.class
+com\zyx\ssm\service\impl\ProductServiceImpl.class
+com\zyx\ssm\service\IOrdersService.class
+com\zyx\ssm\service\impl\SysLogServiceImpl.class
+com\zyx\ssm\service\IPermissionService.class
+com\zyx\ssm\service\ISysLogService.class
+com\zyx\ssm\service\impl\RoleServiceImpl.class
+com\zyx\ssm\service\IUserService.class

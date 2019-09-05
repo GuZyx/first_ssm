@@ -1,0 +1,7 @@
+com\zyx\ssm\controller\PermissionController.class
+com\zyx\ssm\controller\LogAop.class
+com\zyx\ssm\controller\SysLogController.class
+com\zyx\ssm\controller\RoleController.class
+com\zyx\ssm\controller\ProductController.class
+com\zyx\ssm\controller\UserController.class
+com\zyx\ssm\controller\OrdersController.class
