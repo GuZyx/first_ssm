@@ -193,7 +193,7 @@
 							总共<span style="color:blue ;font-weight: bold">${pageInfo.pages}</span>页，
 							共<span style="color:blue ;font-weight: bold">${pageInfo.total}</span> 条数据。 当前每页
 							<select class="form-control" id="changePageSize" onchange="changePageSize()">
-								<%--<option>${pageInfo.size}</option>--%>
+								<option>${pageInfo.size}</option>
 								<option>10</option>
 								<option>15</option>
 								<option>20</option>
