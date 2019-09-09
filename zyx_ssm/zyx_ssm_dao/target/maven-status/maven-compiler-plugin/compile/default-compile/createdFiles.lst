@@ -1,8 +1,0 @@
-com\zyx\ssm\dao\IOrdersDao.class
-com\zyx\ssm\dao\ITravellerDao.class
-com\zyx\ssm\dao\IPermissionDao.class
-com\zyx\ssm\dao\ISysLogDao.class
-com\zyx\ssm\dao\IProductDao.class
-com\zyx\ssm\dao\IMemberDao.class
-com\zyx\ssm\dao\IUserDao.class
-com\zyx\ssm\dao\IRoleDao.class
